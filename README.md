@@ -81,7 +81,7 @@ There are medications capable of doing this:
 - hydroxychloroquine. 
 
 Of these, the only one readily available in the US is hydroxychloroquine (HCQ).
-Niclosamide is only avilable via offshore online pharmacies.
+Niclosamide is only available via offshore online pharmacies.
 Nitazoxanide has been approved by the FDA for a different use, but is
 extremely expensive in the US relative to other countries and to HCQ. 
 

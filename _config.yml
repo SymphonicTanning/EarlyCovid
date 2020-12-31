@@ -1,2 +1,7 @@
 theme: jekyll-theme-slate
 title: Early Treatment of Covid-19
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md

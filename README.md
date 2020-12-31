@@ -106,7 +106,7 @@ purchased on Amazon. It is an anti-malarial medicine with antiviral
 effects. It too has possibly unpleasant side effects.
 
 
-## Broadly acting antiviral drugs
+## Broadly Acting Antiviral Drugs
 
 ### Ivermectin
 
@@ -175,7 +175,7 @@ not have the same clinical trial history as the other two drugs, so its
 anti-Covid-19 reputation is largely anecdotal, but the mechanism of action
 is theoretically sound.
 
-## OTC anti-platelet therapy
+## OTC Anti-platelet Therapy
 
 Another medication to be aware of is aspirin. Aspirin is an
 anti-platelet drug. Severe Covid is characterized by platelet
@@ -195,7 +195,7 @@ has been successfully used in severe cases to block serotonin-involved
 hyper-coagulation.
 
 
-### OTC supplements with SARS-CoV-2 antiviral activity.
+## OTC supplements with SARS-CoV-2 antiviral activity.
 
 Vitamin D - Vitamin D has long been known to have immunomodulatory and
 antiviral effects. Specific to SARS-CoV-2, it is proposed that Vitamin D

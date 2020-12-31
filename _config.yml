@@ -1,5 +1,4 @@
 theme: jekyll-theme-slate
-title: -
 relative_links:
   enabled: true
   collections: true

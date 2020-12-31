@@ -1,3 +1,5 @@
+# Early Treatment of Covid-19
+
 It has been the policy of the health care establishment to not treat early
 Covid-19. Unfortunately, early mild cases can develop into severe cases.
 Mild cases which do not worsen can have after-effects several months

@@ -215,8 +215,7 @@ against Covid-19.
 
 ## Further links and info:
 
-Ivermectin Protocol:
-https://covid19criticalcare.com/i-mask-prophylaxis-treatment-protocol/i-mask-protocol-translations/
+Ivermectin Protocol (https://covid19criticalcare.com/i-mask-prophylaxis-treatment-protocol/i-mask-protocol-translations)
 
 Physician group advocating early treatment:
 https://covid19criticalcare.com/

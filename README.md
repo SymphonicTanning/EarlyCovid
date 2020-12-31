@@ -54,8 +54,10 @@ with offshore pharmacies, the only drug available to ordinary people is
 an OTC cough medicine called Bromhexine, which is available in Europe
 and Asia, and in the US via eBay. Bromhexine is not a TMPRSS2 inhibitor.
 Its action is to cause your body to increase production of endogenous
-TMPRSS2 inhibitors in pulmonary surfactant. Bromhexine is broken down in
-your liver to its active component Ambroxol - also an OTC mucolytic
+TMPRSS2 inhibitors in pulmonary surfactant. 
+
+Bromhexine is broken down in your liver to its active component 
+Ambroxol - also an OTC mucolytic
 available on eBay. If you credit the various successful trials and
 observational studies which have been conducted for Bromhexine,
 Bromhexine and/or Ambroxol could be good ways to protect yourself, in
@@ -153,7 +155,9 @@ endosomal pathway nitazoxanide is known to have multiple inhibitory
 actions. Nitazoxanide also dampens the inflammatory cytokine storm while
 simultaneously stimulating the innate immune responses. Although it
 appears to work in monotherapy, paired with Bromhexine or Camostat it
-should be even more effective. Nitazoxanide is known to work in the
+should be even more effective. 
+
+Nitazoxanide is known to work in the
 post-exposure and early stages of Covid-19, while Ivermectin appears to
 work at all stages. Further testing may reveal that Nitazoxanide is also
 effective in the advanced stages when the dose is adjusted upwards. In

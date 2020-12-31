@@ -24,7 +24,7 @@ manufacturer's hotline.
 
 This is a bad situation, but there are things you can do to protect yourself.
 The purpose of the following to is to arm you with knowledge when dealing 
-with doctors, or when taking your Covid-19 medical plan into your own hands.
+with doctors, or when taking your Covid-19 medical plan into your own hands. 
 
 
 ## Two Pathways to Infection
@@ -217,24 +217,21 @@ against Covid-19.
 
 ## Further links and info:
 
-[Ivermectin Protocol](https://covid19criticalcare.com/i-mask-prophylaxis-treatment-protocol/i-mask-protocol-translations)
+[Ivermectin Treatment Protocol](https://covid19criticalcare.com/i-mask-prophylaxis-treatment-protocol/i-mask-protocol-translations)
 
-Physician group advocating early treatment:
-https://covid19criticalcare.com/
+[Physician group advocating early treatment](https://covid19criticalcare.com/)
 
 Doctors who will prescribe Ivermectin or HCQ: 
-https://www.exstnc.com/
-https://aaps.wufoo.com/reports/z1tdq8q714w7gyj/
+[Directory of Doctors Prescribing Outpatient COVID-19 Therapy](https://www.exstnc.com)
+[Practices offering early treatment for COVID](https://aaps.wufoo.com/reports/z1tdq8q714w7gyj/)
 
-Meta-analysis of Ivermectin studies: https://ivmmeta.com/
+[Meta-analysis of Ivermectin studies](https://ivmmeta.com/)
 
-Meta-analysis of HCQ studies: https://hcqmeta.com/
+[Meta-analysis of HCQ studies](https://hcqmeta.com)
 
-A sample letter for requesting Ivermectin from your doctor:
-https://docs.google.com/document/d/1_nHepZg044Dia3LDfBPmLSs7uvbUr7Mb4rdvcnDBfOI/edit#
+[A sample letter for requesting Ivermectin from your doctor](https://docs.google.com/document/d/1_nHepZg044Dia3LDfBPmLSs7uvbUr7Mb4rdvcnDBfOI/edit)
 
-Where to get HCQ
-https://www.americasfrontlinedoctors.com/how-do-i-get-hcq/
+[Where to get HCQ](https://www.americasfrontlinedoctors.com/how-do-i-get-hcq/)
 
 Where to get Ivermectin, Nitazoxanide, Niclosamide, Bromhexine, Ambroxol
 - eBay has some of these things some of the time

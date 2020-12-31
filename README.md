@@ -195,7 +195,7 @@ has been successfully used in severe cases to block serotonin-involved
 hyper-coagulation.
 
 
-## OTC supplements with SARS-CoV-2 antiviral activity.
+## OTC Supplements with SARS-CoV-2 Antiviral Activity.
 
 Vitamin D - Vitamin D has long been known to have immunomodulatory and
 antiviral effects. Specific to SARS-CoV-2, it is proposed that Vitamin D

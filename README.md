@@ -33,7 +33,7 @@ SARS-CoV-2 infects cells via multiple pathways, of which one is the
 primary pathway (ACE2 receptors on lung epithelial cells) and another is
 the most significant secondary pathway (the endosomes of cells which
 find wider expression outside the lungs). Both pathways can be targeted
-using common drugs.
+using common drugs as part of a *dual-entry inhibition* strategy.
 
 
 ### Using OTC Bromhexine to Block the Primary Pathway

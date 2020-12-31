@@ -197,7 +197,8 @@ hyper-coagulation.
 
 ## OTC Supplements with SARS-CoV-2 Antiviral Activity.
 
-Vitamin D - Vitamin D has long been known to have immunomodulatory and
+### Vitamin D
+Vitamin D has long been known to have immunomodulatory and
 antiviral effects. Specific to SARS-CoV-2, it is proposed that Vitamin D
 upregulates an antimicrobial peptide, LL-37, which binds to the
 SARS-CoV-2 S protein and prevents it binding to your ACE2 receptors,
@@ -207,7 +208,8 @@ different mechanism. OTC Vitamin D takes 7 to 10 days to take effect.
 There's a prescription-only version of Vitamin D, calcifediol, which is
 much faster acting.
 
-Quercetin - Displays a broad range of antiviral properties which may
+### Quercetin
+Quercetin displays a broad range of antiviral properties which may
 interfere at multiple steps - virus entry, virus replication, protein
 assembly. These therapeutic effects may be augmented by the
 co-administration of vitamin C. There has been at least one study which

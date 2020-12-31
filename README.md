@@ -60,7 +60,7 @@ Bromhexine is broken down in your liver to its active component
 Ambroxol - also an OTC mucolytic
 available on eBay. If you credit the various successful trials and
 observational studies which have been conducted for Bromhexine,
-Bromhexine and/or Ambroxol could be good ways to protect yourself, in
+it and/or Ambroxol could be good ways to protect yourself, in
 addition to mask wearing and social distancing - although they would
 work best in dual therapy with another drug which acts in the endosomal
 route.

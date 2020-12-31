@@ -24,7 +24,7 @@ manufacturer's hotline.
 
 This is a bad situation, but there are things you can do to protect yourself.
 The purpose of the following to is to arm you with knowledge when dealing 
-with doctors, or when taking your Covid-19 medical plan into your own hands. 
+with doctors. 
 
 
 ## Two Pathways to Infection
@@ -252,3 +252,7 @@ against Covid-19.
 - nebulized interferon - causes your body to release its endogenous antiviral defenses.
 - umifenovir - antiviral used in Russia and China to treat flu and colds. Some positive results when used early.
 - Fluvoxamine - an SSRI used to treat OCD, fluvoxamine is a potent serotonin-antagonist with other relevant effects, such as androgen suppression, acid sphingomyelinase inhibition in endosomes, and sigma agonism. SSRIs have anti-inflammatory and antiplatelet effects, that is, reduce G9a activity and deplete platelet serotonin. Fluvoxamine weakly inhibits viral endosomal entry. As a Sigma ligand it has post-entry antiviral effects.
+
+## Disclaimer
+
+The information presented is for educational purposes only. Information on this site is NOT intended to serve as a substitute for diagnosis, treatment, or advice from a qualified, licensed medical professional. The facts presented are offered as information only in order to empower you. It is for educational purposes only. Any treatment protocol you undertake should be discussed with your physician or other licensed medical professional. NEVER stop or change your medications without consulting your physician.

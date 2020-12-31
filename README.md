@@ -106,8 +106,7 @@ it's not terribly effective when used alone. Notably, a randomized
 controlled trial using Bromhexine and HCQ together had success.
 
 Although HCQ is readily available, the discrediting of HCQ has
-made it unavailable in many locations to use in a dual
-therapy to stop Covid-19. The bright side is that Bromhexine alone may
+made it off-limits in many locations. The bright side is that Bromhexine alone may
 be fairly effective solo, at least in the lungs, since the endosomal
 path there does not find wide expression.
 

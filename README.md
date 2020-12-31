@@ -1,6 +1,6 @@
-# Early Treatment of Covid-19
+# Early Treatment of Covid-19 in the United States
 
-It has been the policy of the health care establishment to not treat early
+It has been the policy of the US health care establishment to not treat early
 Covid-19. Unfortunately, early mild cases can develop into severe cases.
 Mild cases which do not worsen can have after-effects several months
 after "recovery" - including disabling or fatal after-effects. 

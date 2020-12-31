@@ -36,7 +36,7 @@ find wider expression outside the lungs). Both pathways can be targeted
 using common drugs.
 
 
-### Using OTC Bromhexine to Block the Primary Pathway.
+### Using OTC Bromhexine to Block the Primary Pathway
 
 The SARS-CoV-2 virus uses your body's own enzymes to prime itself for
 cell entry. A crucial serine protease enzyme used by SARS-CoV-2 is
@@ -64,7 +64,7 @@ work best in dual therapy with another drug which acts in the endosomal
 route.
 
 
-### Closing the Secondary Pathway Using Endosomal Entry Inhibitors.
+### Closing the Secondary Pathway Using Endosomal Entry Inhibitors
 
 There is a secondary path used by SARS-CoV-2 to enter cells: via
 cellular endosomes. SARS-CoV-2 enters endosomes using enzymes dependent
@@ -195,7 +195,7 @@ has been successfully used in severe cases to block serotonin-involved
 hyper-coagulation.
 
 
-## OTC Supplements with SARS-CoV-2 Antiviral Activity.
+## OTC Supplements with SARS-CoV-2 Antiviral Activity
 
 ### Vitamin D
 Vitamin D has long been known to have immunomodulatory and
@@ -220,10 +220,9 @@ against Covid-19.
 ## Further links and info:
 
 - [Ivermectin Treatment Protocol](https://covid19criticalcare.com/i-mask-prophylaxis-treatment-protocol/i-mask-protocol-translations)
-
 - [Physician group advocating early treatment](https://covid19criticalcare.com/)
 
-Doctors who will prescribe Ivermectin or HCQ: 
+### Doctors who will prescribe Ivermectin or HCQ: 
 
 - [Directory of Doctors Prescribing Outpatient COVID-19 Therapy](https://www.exstnc.com)
 - [Practices offering early treatment for COVID](https://aaps.wufoo.com/reports/z1tdq8q714w7gyj/)
@@ -231,18 +230,17 @@ Doctors who will prescribe Ivermectin or HCQ:
 - [A sample letter for requesting Ivermectin from your doctor](https://docs.google.com/document/d/1_nHepZg044Dia3LDfBPmLSs7uvbUr7Mb4rdvcnDBfOI/edit)
 
 
-Clinical Trial info:
+### Clinical Trial info:
 - [Meta-analysis of Ivermectin studies](https://ivmmeta.com/)
 - [Meta-analysis of HCQ studies](https://hcqmeta.com)
 
-
-Where to get Ivermectin, Nitazoxanide, Niclosamide, Bromhexine, Ambroxol
+### Where to get Ivermectin, Nitazoxanide, Niclosamide, Bromhexine, Ambroxol
 - eBay has some of these things some of the time
 - Google Shopping has links to some of these things some of the time.
 - Etsy has some of these some of the time
 - In theory, Ivermectin is available via a doctor's prescription.
 
-Prescription drugs with RCTs showing effective results against Covid 19:
+### Prescription drugs with RCTs showing effective results against Covid 19:
 
 - dipyridamole - anti-platelet medication which also exhibits anti-inflammatory	and antiviral action.
 - colchicine - anti-inflammatory.

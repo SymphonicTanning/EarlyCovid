@@ -72,20 +72,33 @@ There is a secondary path used by SARS-CoV-2 to enter cells: via
 cellular endosomes. SARS-CoV-2 enters endosomes using enzymes dependent
 on an acidic environment. It follows that if you could inhibit the
 acidification of endosomes, you would disrupt SARS-CoV-2's ability to
-enter them. There are prescription medications capable of doing this,
-including nitazoxanide, niclosamide, and hydroxychloroquine. Of these,
-the only one readily available in the US is hydroxychloroquine (HCQ).
-Nitazoxanide has been approved by the FDA for a different use, but is
-extremely expensive in the US relative to other countries and to HCQ.
+enter them. 
 
-This is unfortunate, since HCQ developed serious political problems
-after Donald Trump promoted it, to the extent that it was totally
-discredited. The prominent Oxford RECOVERY clinical trial, which
+There are medications capable of doing this:
+
+- nitazoxanide 
+- niclosamide
+- hydroxychloroquine. 
+
+Of these, the only one readily available in the US is hydroxychloroquine (HCQ).
+Niclosamide is only avilable via offshore online pharmacies.
+Nitazoxanide has been approved by the FDA for a different use, but is
+extremely expensive in the US relative to other countries and to HCQ. 
+
+Unfortunately, HCQ developed serious political problems
+after Donald Trump promoted it, to the extent that some people were inordinately eager to
+discredit it. There was an equally extreme reaction in its favor after
+this occurred, based on faulty science which misidentifies HCQ's mechanism of action 
+as a "zinc ionophore" which "shoots" zinc ions at viruses. The presence
+of zinc is unrelated to HCQ's actual effect on endosomal entry.
+
+The prominent Oxford RECOVERY clinical trial, which
 inappropriately used HCQ as the sole antiviral therapy in advanced
 patients, also contributed to HCQ's reputational damage, despite the
 study's report explicitly stating that it did "not address its use as
-prophylaxis or in patients with less severe SARS-CoV-2 infection." If
-all you know about HCQ is what you have read in the New York Times or
+prophylaxis or in patients with less severe SARS-CoV-2 infection." 
+
+If all you know about HCQ is what you have read in the New York Times or
 heard on NPR, you'd think HCQ was snake oil. But there have been upwards
 of 180 studies using HCQ to treat Covid-19, and many of them show
 favorable results - with qualifications: it should be used early, and
@@ -93,7 +106,7 @@ it's not terribly effective when used alone. Notably, a randomized
 controlled trial using Bromhexine and HCQ together had success.
 
 Although HCQ is readily available, the discrediting of HCQ has
-made it less likely that you'll be able to get it to use in a dual
+made it unavailable in many locations to use in a dual
 therapy to stop Covid-19. The bright side is that Bromhexine alone may
 be fairly effective solo, at least in the lungs, since the endosomal
 path there does not find wide expression.
@@ -124,8 +137,8 @@ required to have an antiviral effect against SARS-CoV-2, at least in a
 petri dish.
 
 Now, months later, every single RCT or clinical study using Ivermectin
-in human patients has succeeded. Massive doses are not required. It
-works in mild, moderate, and severe cases, as well as post-exposure
+in human patients has succeeded. Massive doses are not required. It appears to
+work in mild, moderate, and severe cases, as well as post-exposure
 prophylaxis, although not solely as an antiviral. It has
 immunomodulatory and anti-inflammatory effects, including supporting the
 action of T-cells to fight infection.  Ivermectin has a long half-life,

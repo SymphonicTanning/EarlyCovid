@@ -130,9 +130,9 @@ for greater effectiveness.
 
 ### Ivermectin
 
-There is another medication which is now seeing success in clinical
-trials: Ivermectin. Ivermectin is an anti-parasite medicine used widely
-in areas where parasitical infections are common.
+Ivermectin is an anti-parasite medicine, used widely
+in areas where parasitical infections are common, which is now 
+seeing success in clinical trials.
 
 Ivermectin had some bad press several months ago in the context of
 Covid-19. In one case, an influential study which had resulted in

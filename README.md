@@ -211,7 +211,7 @@ Naproxen (not both together), are capable of supporting this. A
 fractional dose of Aspirin (80 to 160 mg) is all that is required. The
 science on this is not clear, however - there's some limited evidence
 that aspirin or NSAIDs might not be effective or do harm. No one really
-knows. A prescription alternative would be the drug dipyridamole. There
+knows. A prescription alternative is the drug dipyridamole. There
 are also reports that the first-generation antihistamine cyproheptadine
 has been successfully used in severe cases to block serotonin-involved
 hyper-coagulation.

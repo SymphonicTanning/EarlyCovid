@@ -124,9 +124,44 @@ effects. It too has possibly unpleasant side effects.
 
 There are repurposed drugs which have shown promise as monotherapies. These
 include the two previously mentioned endosomal entry inhibitors niclosamide
-and nitazoxanide, and another contender, Ivermectin. Although these drugs
+and nitazoxanide, and another contender, ivermectin. Although these drugs
 have been shown to be effective alone, they can be combined with Bromhexine
 for greater effectiveness.
+
+
+### Nitazoxanide
+
+Yet another anti-protozoal drug which also acts as a broad spectrum
+antiviral, nitazoxanide acts on both viral routes, inhibiting SARS-CoV-2
+at the endosomal pathway and the fusion-based cell surface non-endosomal
+pathway. It acts not only against the TMPRSS2 enzyme, but also the furin
+enzyme which prepares the virus for activation by TMPRSS2. In the
+endosomal pathway nitazoxanide is known to have multiple inhibitory
+actions. Nitazoxanide also dampens the inflammatory cytokine storm while
+simultaneously stimulating the innate immune responses. Although it
+appears to work in monotherapy, paired with Bromhexine or Camostat it
+should be even more effective. 
+
+Nitazoxanide is known to work in the post-exposure and early stages of Covid-19. 
+Further testing may reveal that Nitazoxanide is also
+effective in the advanced stages when the dose is adjusted upwards. In
+the most thorough study yet, a Brazilian RCT which looked at early-stage
+use, "Nitazoxanide did not accelerate symptom resolution after 5 days of
+therapy; however, reduced viral load significantly with no serious
+adverse events."
+
+### Niclosamide
+
+Niclosamide is an anti-parasitic used to cure tapeworm infections. In the
+context of Covid-19, it is a proton ionophore, allowing H+ to diffuse 
+back out of endosomes and lysosomes, raising the pH, and thereby preventing
+Sars-CoV-2 from entering via the endosomal route. Thus, it works like
+nitazoxanide, with which it shares additional post-entry antiviral 
+effects. The antiviral action of niclosamide and nitazoxanide make them
+superior to HCQ, which only acts as an entry inhibitor. Niclosamide does
+not have the same clinical trial history as nitazoxanide and ivermectin, so its
+anti-Covid-19 reputation is largely anecdotal, but the mechanism of action
+is theoretically sound.
 
 ### Ivermectin
 
@@ -143,15 +178,18 @@ petri dish.
 
 Now, months later, every single RCT or clinical study using Ivermectin
 in human patients has succeeded. Massive doses are not required. It appears to
-work in mild, moderate, and severe cases, as well as post-exposure
-prophylaxis, although not solely as an antiviral. It has
+work in moderate and severe cases, as well as post-exposure
+prophylaxis. Some results suggest it is less effective in mild cases, 
+as its primary activity is not antiviral: it has
 immunomodulatory and anti-inflammatory effects, including supporting the
-action of T-cells to fight infection.  Ivermectin has a long half-life,
-so requires infrequent doses. It is inexpensive and available
-everywhere. 
+action of T-cells to fight infection. It's thought to have weak
+antiviral effects, which is why it appears to wor as prophylaxis.
+Ivermectin has a long half-life, so requires infrequent doses. 
+It is inexpensive and available everywhere. There has been about
+a dozen clinical trials, with dozens more underway.
 
 There is a movement among some front-line physicians to try to get
-Ivermectin adopted in the US as the preferred treatment. One stumbling
+Ivermectin adopted in the US as a preferred treatment. One stumbling
 block is that it is cheap and generic, so the profit motive is not there
 (in the third quarter, Gilead sold $873 million of Remdesivir, before
 WHO declared it ineffective). Another obstacle is that the earlier
@@ -162,40 +200,6 @@ that it has been reputed to have neurotoxic effects in patients with a
 compromised blood brain barrier, although that has not been reported in
 any of the Covid-19 trials.
 
-### Nitazoxanide
-
-Yet another anti-protozoal drug which also acts as a broad spectrum
-antiviral, nitazoxanide acts on both viral routes, inhibiting SARS-CoV-2
-at the endosomal pathway and the fusion-based cell surface non-endosomal
-pathway. It acts not only against the TMPRSS2 enzyme, but also the furin
-enzyme which prepares the virus for activation by TMPRSS2. In the
-endosomal pathway nitazoxanide is known to have multiple inhibitory
-actions. Nitazoxanide also dampens the inflammatory cytokine storm while
-simultaneously stimulating the innate immune responses. Although it
-appears to work in monotherapy, paired with Bromhexine or Camostat it
-should be even more effective. 
-
-Nitazoxanide is known to work in the
-post-exposure and early stages of Covid-19, while Ivermectin appears to
-work at all stages. Further testing may reveal that Nitazoxanide is also
-effective in the advanced stages when the dose is adjusted upwards. In
-the most thorough study yet, a Brazilian RCT which looked at early-stage
-use, "Nitazoxanide did not accelerate symptom resolution after 5 days of
-therapy; however, reduced viral load significantly with no serious
-adverse events."
-
-### Niclosamide
-
-Niclosamide is an anti-parasitic used to cure tapeworm infections. In the
-context of Covid-19, it is a proton ionophore, allowing H+ to diffuse 
-back out of endosomes and lysosomes, raising the pH, and thereby preventing
-Sars-CoV-2 from entering via the endosomal route. Thus, it works like
-nitazoxanide, with which it shares additional post-entry antiviral 
-effects. The antiviral action of niclosamide and nitazoxanide make them
-superior to HCQ, which only acts as an entry inhibitor. Niclosamide does
-not have the same clinical trial history as the other two drugs, so its
-anti-Covid-19 reputation is largely anecdotal, but the mechanism of action
-is theoretically sound.
 
 ## OTC Anti-platelet Therapy
 

@@ -183,7 +183,7 @@ prophylaxis. Some results suggest it is less effective in mild cases,
 as its primary activity is not antiviral: it has
 immunomodulatory and anti-inflammatory effects, including supporting the
 action of T-cells to fight infection. It's thought to have weak
-antiviral effects, which is why it appears to wor as prophylaxis.
+antiviral effects, which is why it appears to work as prophylaxis.
 Ivermectin has a long half-life, so requires infrequent doses. 
 It is inexpensive and available everywhere. There has been about
 a dozen clinical trials, with dozens more underway.

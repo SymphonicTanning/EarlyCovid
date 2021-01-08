@@ -14,7 +14,7 @@ that the next few months are going to see an increased denial of
 hospital admissions due to overcrowding, which may impact the accessibility
 of the early treatments, even if they do not require full admission.
 
-There's another catch-22: the policy has been that Covid-19 does not get treatment until
+There's another catch-22: the policy has been that Covid-19 cases do not get treatment until
 patients require supplemental oxygen. If you require supplemental
 oxygen, your case is probably too far along to benefit from the early
 treatments. So, although the existing doses of the monoclonal antibody
